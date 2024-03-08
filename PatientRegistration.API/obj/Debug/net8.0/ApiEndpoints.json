@@ -1,0 +1,70 @@
+[
+  {
+    "ContainingType": "YourNamespace.Controllers.PatientController",
+    "Method": "Authenticate",
+    "RelativePath": "api/Patient/Authenticate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "YourNamespace.Controllers.PatientController",
+    "Method": "GetAllLabVisitsForPatient",
+    "RelativePath": "api/Patient/GetAllLabVisitsForPatient",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ssn",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YourNamespace.Controllers.PatientController",
+    "Method": "GetLabResults",
+    "RelativePath": "api/Patient/GetLabResults",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "labVisitId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YourNamespace.Controllers.PatientController",
+    "Method": "GetVaccination",
+    "RelativePath": "api/Patient/GetVaccination",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ssn",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

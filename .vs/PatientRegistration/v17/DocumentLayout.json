@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AnnAn\\VSCode\\.NETCoreWebAPI\\PatientRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B406B0A4-32F1-42C3-A652-E5CDFF352E53}|PatientRegistration.Infrastructure\\PatientRegistration.Infrastructure.csproj|c:\\users\\annan\\vscode\\.netcorewebapi\\patientregistration\\patientregistration.infrastructure\\models\\patient_lab_visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B406B0A4-32F1-42C3-A652-E5CDFF352E53}|PatientRegistration.Infrastructure\\PatientRegistration.Infrastructure.csproj|solutionrelative:patientregistration.infrastructure\\models\\patient_lab_visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39202E5-B573-4B6E-8F1E-4C3B18E35835}|PatientRegistration.API\\PatientRegistration.API.csproj|c:\\users\\annan\\vscode\\.netcorewebapi\\patientregistration\\patientregistration.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39202E5-B573-4B6E-8F1E-4C3B18E35835}|PatientRegistration.API\\PatientRegistration.API.csproj|solutionrelative:patientregistration.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39202E5-B573-4B6E-8F1E-4C3B18E35835}|PatientRegistration.API\\PatientRegistration.API.csproj|c:\\users\\annan\\vscode\\.netcorewebapi\\patientregistration\\patientregistration.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F39202E5-B573-4B6E-8F1E-4C3B18E35835}|PatientRegistration.API\\PatientRegistration.API.csproj|solutionrelative:patientregistration.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39202E5-B573-4B6E-8F1E-4C3B18E35835}|PatientRegistration.API\\PatientRegistration.API.csproj|c:\\users\\annan\\vscode\\.netcorewebapi\\patientregistration\\patientregistration.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39202E5-B573-4B6E-8F1E-4C3B18E35835}|PatientRegistration.API\\PatientRegistration.API.csproj|solutionrelative:patientregistration.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39202E5-B573-4B6E-8F1E-4C3B18E35835}|PatientRegistration.API\\PatientRegistration.API.csproj|c:\\users\\annan\\vscode\\.netcorewebapi\\patientregistration\\patientregistration.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F39202E5-B573-4B6E-8F1E-4C3B18E35835}|PatientRegistration.API\\PatientRegistration.API.csproj|solutionrelative:patientregistration.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Patient_Lab_Visit.cs",
+              "DocumentMoniker": "C:\\Users\\AnnAn\\VSCode\\.NETCoreWebAPI\\PatientRegistration\\PatientRegistration.Infrastructure\\Models\\Patient_Lab_Visit.cs",
+              "RelativeDocumentMoniker": "PatientRegistration.Infrastructure\\Models\\Patient_Lab_Visit.cs",
+              "ToolTip": "C:\\Users\\AnnAn\\VSCode\\.NETCoreWebAPI\\PatientRegistration\\PatientRegistration.Infrastructure\\Models\\Patient_Lab_Visit.cs",
+              "RelativeToolTip": "PatientRegistration.Infrastructure\\Models\\Patient_Lab_Visit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T22:48:03.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AnnAn\\VSCode\\.NETCoreWebAPI\\PatientRegistration\\PatientRegistration.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PatientRegistration.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\AnnAn\\VSCode\\.NETCoreWebAPI\\PatientRegistration\\PatientRegistration.API\\appsettings.json",
+              "RelativeToolTip": "PatientRegistration.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-08T21:51:23.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AnnAn\\VSCode\\.NETCoreWebAPI\\PatientRegistration\\PatientRegistration.API\\Program.cs",
+              "RelativeDocumentMoniker": "PatientRegistration.API\\Program.cs",
+              "ToolTip": "C:\\Users\\AnnAn\\VSCode\\.NETCoreWebAPI\\PatientRegistration\\PatientRegistration.API\\Program.cs",
+              "RelativeToolTip": "PatientRegistration.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T21:45:22.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\AnnAn\\VSCode\\.NETCoreWebAPI\\PatientRegistration\\PatientRegistration.API\\Dockerfile",
+              "RelativeDocumentMoniker": "PatientRegistration.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\AnnAn\\VSCode\\.NETCoreWebAPI\\PatientRegistration\\PatientRegistration.API\\Dockerfile",
+              "RelativeToolTip": "PatientRegistration.API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-08T21:47:23.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\AnnAn\\VSCode\\.NETCoreWebAPI\\PatientRegistration\\PatientRegistration.API\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "PatientRegistration.API\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\AnnAn\\VSCode\\.NETCoreWebAPI\\PatientRegistration\\PatientRegistration.API\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "PatientRegistration.API\\Controllers\\PatientController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAjwD8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T21:45:47.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
